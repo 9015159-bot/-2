@@ -1,0 +1,6 @@
+{
+  "name": "果嶼良品 FRUIT ISLE",
+  "description": "頂級旬味果物專賣店，提供產地直送鮮果、Brix甜度認證、客製化節慶水果禮盒與全程低溫冷藏宅急便。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
